@@ -27,4 +27,4 @@ The model is a Sequential Autoencoder that compresses a 24-hour window of data i
 The notebook generates a reconstruction error plot. Peaks above the dashed threshold line represent detected anomalies in the temperature system.
 
 ---
-*Developed as part of my Week 4 Internship tasks.*
+
